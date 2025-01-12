@@ -2,10 +2,10 @@
 
 ## Contributions:
 
-* Pawan Acharya: expensescsv.py
-* Sabin Raj Pokharel: spending_history.py
-* Diya Lacoul: add_expenses.py
-* Eshika Shamra: option.py
-* Simran Thapa: main.py
+* Pawan: expensescsv.py
+* Sabin: spending_history.py
+* Diya: add_expenses.py
+* Eshika: option.py
+* Simran: main.py
 
 ## Have a great day!!
